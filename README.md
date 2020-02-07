@@ -1,1 +1,1 @@
-# Web-Scraping-using-Python-s-Scrapy-Framework
+This is my blog link, which covers the entire story of this project. Link: https://medium.com/@shritamkumarmund.98/the-most-insightful-story-behind-web-scraping-using-pythons-scrapy-framework-9ac0a2769fbe
